@@ -17,7 +17,7 @@ function App() {
     event.preventDefault();
     setSubmitting(true);
 
-    // Abrir una nueva pestaña
+    // Abrir una nueva pestaña  commmmmiiiiit
     const newTab = window.open('', '_blank');
 
     setTimeout(() => {
